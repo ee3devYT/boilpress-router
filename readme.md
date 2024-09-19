@@ -91,5 +91,5 @@ This project is open-source, so like... please help me out. I legit can't handle
 ## Contact 
 
 If you need to ask something or drop some feedback, just hit me up on Discord: @iee3dev or Twitter: @ee3dev. And come join my Discord server before I start talking to myself! (I need friends 😭)
-- [Discord Server](https://discord.gg/HSFBBccBzK)
+- [Discord Server](https://discord.gg/VbrtYa2x9M)
 - [Twitter](https://twitter.com/ee3dev)
